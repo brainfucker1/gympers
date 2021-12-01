@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142072333942",
+    "project_id": "gympers-4a0f6",
+    "storage_bucket": "gympers-4a0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142072333942:android:4fe822f776436edf204157",
+        "android_client_info": {
+          "package_name": "com.example.gympers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142072333942-nu49e6sdc2bc79aacdc5fm0und7csdor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-aP5919JNSmzJOiDwRfzZgbmzHXvBnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142072333942-nu49e6sdc2bc79aacdc5fm0und7csdor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
